@@ -1,0 +1,17 @@
+{
+  "name": "docker-ppt",
+  "version": "1.0.0",
+  "description": "a simple project for testing how to run puppeteer in a docker container",
+  "main": "puppeteer-script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "docker",
+    "container"
+  ],
+  "author": "Apify",
+  "license": "ISC"
+}
